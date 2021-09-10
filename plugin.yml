@@ -1,0 +1,6 @@
+name: HG
+version: 1.0
+main: ml.lbplugins.hg.Main
+softdepend: [TerrainControl]
+commands:
+  tst:

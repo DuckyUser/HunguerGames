@@ -1,0 +1,28 @@
+Block_CMDS:
+  - "/scf settings"
+  - "/setnpc"
+  - "/discconect"
+  - "/pl"
+  - "/plugins"
+  - "/ga"
+  - "/reciclar"
+  - "/bukkit:help"
+  - "/ewarps"
+  - "/ekit"
+  - "/reciclador"
+  - "/unregister"
+  - "/minecraft"
+  - "//calculate"
+  - "/icanhasbukkit"
+  - "/me"
+  - "/ss"
+  - "/chestshop reload"
+  - "/minecraft:me"
+  - "/?"
+  - "/ver"
+  - "/version"
+ 
+World-Name: "hunguer"
+
+#TIMES SECONDS
+invincibility: 30
